@@ -1,5 +1,6 @@
 import streamlit as st
 from textblob import TextBlob
+st.sidebar.image("D:/dilip.jpg")
 st.sidebar.title("About Me")
 st.sidebar.text(""" I am Dilip Prajapati
 a Data science Student from
